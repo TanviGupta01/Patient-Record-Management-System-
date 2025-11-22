@@ -30,7 +30,6 @@ It demonstrates:
 ✔ Console menu interface  
 ✔ Error handling for invalid choices  
 
----
 
 ## Functional Modules
 This project includes three main modules as required:
@@ -61,7 +60,7 @@ This project meets the following non-functional requirements:
 (At least four NFRs required.)  
  [oai_citation:1‡BuildYourOwnProject.pdf](sediment://file_0000000016c07208a054e17f11a6aa10)
 
----
+
 
 ## Folder Structure
 HealthcareConsole/
@@ -113,8 +112,6 @@ Testing is required per project guidelines.
  [oai_citation:3‡BuildYourOwnProject.pdf](sediment://file_0000000016c07208a054e17f11a6aa10)
 
 
-Add in a folder:
- ##  System Architecture (Simple)
  User → Menu → PatientManager → Patient List (ArrayList)
  
 
@@ -146,7 +143,7 @@ This satisfies the requirement of **5–10 modules/classes**.
 Pull requests are welcome.
 
 
-## 📄License
+## License
 This project is for educational purposes only.
 
 
