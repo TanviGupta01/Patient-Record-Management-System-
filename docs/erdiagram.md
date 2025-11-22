@@ -1,23 +1,13 @@
-# ER Diagram – Healthcare Patient Record Management System
+# ER Diagram
 
-## Entity: Patient
-Attributes:
+[Patient]
 - name
 - age
 - gender
 - problem
 
-## Entity: PatientManager
-Attributes:
-- patientList (ArrayList of Patient objects)
-
-## Relationship
+Relationships:
 PatientManager (1) ----- (*) Patient
 
 Explanation:
-The system stores multiple Patient records in memory using an ArrayList.
-The PatientManager entity manages the collection of Patient objects.
-Each PatientManager instance can contain many Patient entries, but each Patient belongs to only one PatientManager.
-
-Cardinality:
-1 PatientManager : Many Patients (1..*)
+The system stores multiple Patient records inside an ArrayList managed by PatientManager.
