@@ -113,14 +113,6 @@ Testing is required per project guidelines.
  [oai_citation:3‡BuildYourOwnProject.pdf](sediment://file_0000000016c07208a054e17f11a6aa10)
 
 
-##  Screenshots (optional)
-You can include:
-
-- Menu screenshot
-- Add patient output
-- Search output
-- View all output
-
 Add in a folder:
  ##  System Architecture (Simple)
  User → Menu → PatientManager → Patient List (ArrayList)
