@@ -78,10 +78,7 @@ Menu.java
 - ArrayList data structure
 - Git & GitHub (for version control)
 
-GitHub repository requirement includes tools used.  
- [oai_citation:2‡BuildYourOwnProject.pdf](sediment://file_0000000016c07208a054e17f11a6aa10)
 
----
 
 ##  How to Install & Run
 
@@ -108,9 +105,7 @@ Add patient with invalid age
  Search non-existing patient  
 View records when list is empty
 
-Testing is required per project guidelines.  
- [oai_citation:3‡BuildYourOwnProject.pdf](sediment://file_0000000016c07208a054e17f11a6aa10)
-
+## System Architecture 
 
  User → Menu → PatientManager → Patient List (ArrayList)
  
@@ -121,9 +116,6 @@ Testing is required per project guidelines.
 - PatientManager.java
 - Validator.java
 - Menu.java
-
-This satisfies the requirement of **5–10 modules/classes**.  
- [oai_citation:4‡BuildYourOwnProject.pdf](sediment://file_0000000016c07208a054e17f11a6aa10)
  
 
 ## Design Decisions
@@ -139,10 +131,6 @@ This satisfies the requirement of **5–10 modules/classes**.
 - Mobile app version
 
 
-##  Contribution
-Pull requests are welcome.
-
-
 ## License
 This project is for educational purposes only.
 
@@ -150,8 +138,6 @@ This project is for educational purposes only.
 ##  References
 - Java Documentation
 - VS Code Java Extensions
-- VITyarthi Project Guidelines  [oai_citation:5‡BuildYourOwnProject.pdf](sediment://file_0000000016c07208a054e17f11a6aa10)
-
 
 
 
